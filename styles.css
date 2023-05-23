@@ -1,0 +1,39 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+body {
+    background-color: #54B435;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Lora', serif;
+    text-shadow: 3px 5px #070707;
+    font-size: 8rem;
+    color: #fff;
+}
+
+p {
+    font-size: 2rem;
+    color: #fff;
+    font-family: 'Lora', serif;
+}
+
+img {
+    width: 60%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #eee;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
